@@ -2,3 +2,4 @@ Hi this a test file. Testing git and git version control
 Now I have made the changes
 Now I'm making changes on the github
 Now I'm making chnages on my local machine
+Now lets revert this file to previous commits
